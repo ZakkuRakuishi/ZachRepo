@@ -1,1 +1,1 @@
-Added a simplistic Pong game, added a more complex PongV2 game, added a simple password generator and a more complex password generator.
+Added a simplistic Pong game, added a more complex PongV2 game, added a simple password generator, a more complex password generator and a decryption mechanism. I will most likely end up changing the complex password generator to actually function with a password protected file, for the time being though it will be in the file but serves no purpose.
