@@ -1,1 +1,1 @@
-So far just added a simple Pong game, will add more in the future.
+Added a simplistic Pong game, added a more complex PongV2 game, added a simple password generator and a more complex password generator.
